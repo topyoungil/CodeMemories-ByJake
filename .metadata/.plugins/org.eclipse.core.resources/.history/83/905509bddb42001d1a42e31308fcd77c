@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style>
+	#padding1 {
+		padding: 20px 30px 40px 50px;
+	}
+
+	#padding2 {
+		padding: 20px 30px 40px 50px;
+	}
+
+	#padding3 {
+		padding: 20px 30px 40px 50px;
+	}
+</style>
+</head>
+<body>
+	<h1>레드향</h1>
+	<h1 class="padding1">레드향</h1>
+	<h1 class="padding2">레드향</h1>
+	<h1 class="padding2">레드향</h1>
+
+</body>
+</html>

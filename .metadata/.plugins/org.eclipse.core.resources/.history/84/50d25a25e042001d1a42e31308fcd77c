@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style>
+	* {
+		box-sizing: border-box;
+	}
+	
+	
+
+</style>
+</head>
+<body>
+	<nav>
+		<ul>
+			<li>menu 1</li>
+			<li>menu 2</li>
+			<li>menu 3</li>
+			<li>menu 4</li>
+		</ul>
+	</nav>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style>
+	nav {
+		width: 300px;
+	}
+	
+	
+
+</style>
+</head>
+<body>
+	<ul>
+		<li>회사 소개</li>
+		<li>도서</li>
+		<li>자료실</li>
+		<li>동영상 강의</li>
+	</ul>
+</body>
+</html>

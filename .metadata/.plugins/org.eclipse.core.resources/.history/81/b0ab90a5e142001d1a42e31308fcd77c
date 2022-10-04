@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<div id="box1">박스1</div>
+	<div id="box2">박스2</div>
+	<div id="box3">박스3</div>
+	<div id="box4">박스4</div>
+</body>
+</html>

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<div id="container">
+		<div class="desc" id="clip-bording"></div>
+		<div class="desc"></div>
+		<div class="desc"></div>
+	</div>
+</body>
+</html>

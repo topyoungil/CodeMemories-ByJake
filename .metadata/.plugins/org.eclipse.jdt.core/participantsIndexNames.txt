@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\workspace\javaScript\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2385444490.index
+\Study_JS\src

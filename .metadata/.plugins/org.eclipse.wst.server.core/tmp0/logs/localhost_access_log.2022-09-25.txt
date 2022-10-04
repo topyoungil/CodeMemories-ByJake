@@ -1,0 +1,7 @@
+127.0.0.1 - - [25/Sep/2022:21:56:58 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [25/Sep/2022:21:56:59 +0900] "GET /HTML_CSS/test/line_height.html HTTP/1.1" 200 839
+0:0:0:0:0:0:0:1 - - [25/Sep/2022:21:57:00 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [25/Sep/2022:22:02:04 +0900] "GET /HTML_CSS/test/text-shadow.html HTTP/1.1" 200 445
+0:0:0:0:0:0:0:1 - - [25/Sep/2022:22:02:04 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [25/Sep/2022:22:08:31 +0900] "GET /HTML_CSS/test/spacing.html HTTP/1.1" 200 323
+0:0:0:0:0:0:0:1 - - [25/Sep/2022:22:08:45 +0900] "GET /HTML_CSS/test/text-transform.html HTTP/1.1" 200 384

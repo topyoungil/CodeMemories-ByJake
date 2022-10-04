@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style>
+	body {
+		
+	}
+
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>레드향</h1>
+		<p>껍질에 붉은 빛이 돌아 <b>레드향</b>이라 불린다.</p>	
+	</div>
+</body>
+</html>
